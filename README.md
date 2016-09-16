@@ -1,5 +1,6 @@
 # TimeLord Online
 This is an online timetabling program, similar to my previous TimeLord project, only with a better UI and online properties.
+The older project can be found [here](https://GitHub.com/OhmGeek/TimeLord)
 
 ## Aims
 
