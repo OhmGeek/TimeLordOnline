@@ -11,11 +11,8 @@ TimeLord was written without prototyping, and I noticed a few problems with the 
 ## Improvements
 
   - The online version shall use HTML to create a better GUI, and thanks to CSS we can style this GUI.
-  
- - Animations on the GUI can be created using local javascript, and interaction with the timetable can also take place with the local javascript
- 
- - When we finally want to store the files, we can send a post request back to the server. These post requests can also occur as changes happen, so there is little chance of data loss if the local machine goes down/loses connection.
- 
- - Printing will be easy as we can use CSS and HTML to make a lovely timetable. Also, the user can customise the templates themselves.
+  - Animations on the GUI can be created using local javascript, and interaction with the timetable can also take place with the local javascript
+  - When we finally want to store the files, we can send a post request back to the server. These post requests can also occur as changes happen, so there is little chance of data loss if the local machine goes down/loses connection.
+  - Printing will be easy as we can use CSS and HTML to make a lovely timetable. Also, the user can customise the templates themselves.
  
  
