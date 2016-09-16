@@ -1,0 +1,26 @@
+{
+  "name": "timelord-online",
+  "version": "1.0.0",
+  "description": "A timetabling web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OhmGeek/TimeLordOnline.git"
+  },
+  "keywords": [
+    "timetable",
+    "nodejs"
+  ],
+  "author": "Ryan Collins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OhmGeek/TimeLordOnline/issues"
+  },
+  "homepage": "https://github.com/OhmGeek/TimeLordOnline#readme",
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.10"
+  }
+}
