@@ -1,0 +1,10 @@
+To run the server:
+
+mongod --dbpath=data --port 27042
+
+Code for using mongodb directly:
+
+https://www.npmjs.com/package/mongodb
+
+
+Mongoose:

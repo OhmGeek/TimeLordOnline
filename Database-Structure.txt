@@ -1,0 +1,21 @@
+Timetable:
+
+{
+  _id:  random object ID thingy
+  timetable-name: "string name";
+  user_id: "USERID",
+  data: [];
+  staff: staff-list-id:
+  day-start-time: "TIME";
+  day-end-time: "TIME";
+
+}
+
+Staff Table:
+
+{
+  timetable-id: from the timetable
+  
+
+
+}
